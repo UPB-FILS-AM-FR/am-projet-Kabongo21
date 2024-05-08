@@ -1,12 +1,14 @@
-# Your Project Name
+# Robot suiveur de ligne 
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Josue Kabongo
 
-## Description
+## Description 
+Le projet consiste à concevoir et à construire un robot suiveur de ligne autonome à l'aide d'une plateforme Arduino. Le robot sera équipé de capteurs de ligne qui lui permettront de détecter et de suivre des trajectoires spécifiques tracées au sol. À l'aide de moteurs et de circuits de contrôle, le robot ajustera sa trajectoire en temps réel pour rester centré sur la ligne, évitant ainsi les obstacles éventuels.
 
 ## Motivation
+J'ai choisi ce projet car c'est une excellente introduction dans le monde de la robotique. Cela me permettra d'explorer des concepts de base tout en développant des compétences pratiques en électronique et en programmation.
 
 ## Architecture
 
