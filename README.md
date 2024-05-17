@@ -36,11 +36,13 @@ Ainsi, le suiveur de ligne se déplace de manière autonome le long de la piste,
 
 | Device | Usage | Price |
 |--------|--------|-------|
-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
-| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
-| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
-
+| Arduino UNO R3 | Microprocesseur | [27 RON](https://www.emag.ro/placa-de-dezvoltare-compatibila-uno-r3-ch340-cl20/pd/D60C5JBBM/?ref=cart_item) |
+| Roue | Permet de se deplacer | [2 RON](https://www.optimusdigital.ro/ro/mecanica-roti/358-roata-de-38-mm-pentru-ax-de-2-mm.html) |
+|Capteur infrarouge| Permet de voir la ligne | [14 RON](https://www.optimusdigital.ro/ro/senzori-altele/1266-bara-cu-3-senzori-de-linie.html) |
+| Moteur | Permet au Roue de fonctionner | [5 RON](https://www.optimusdigital.ro/ro/motoare-motoare-fara-reductor/362-motor-biaxial-130-15140.html) |
+| Driver L9110S | Permet au moteur de fonctionner | [4 RON](https://www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/480-driver-de-motoare-l9110s.html) |
+|Pile 9V| Alimente le circuit | [10 RON](https://www.emag.ro/baterie-philips-ultra-alkaline-9v-1-buc-6lr61e1b-10/pd/DVS1LKBBM/) |
+|Connecteur pile | connecte la pile au circuit | [7 RON](https://www.emag.ro/conector-baterie-ajmaker-9-v-140-mm-multicolor-z000572/pd/DZNQLHYBM/?X-Search-Id=dab19345a2da85127514&X-Product-Id=168453902&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view)
 ### Libraries
 
 <!-- This is just an example, fill in the table with your actual components -->
@@ -65,8 +67,4 @@ Ainsi, le suiveur de ligne se déplace de manière autonome le long de la piste,
 
 <!-- Fill in with appropriate links and link titles -->
 
-[Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
-
-[Article 1](https://www.explainthatstuff.com/induction-motors.html)
-
-[Link title](https://projecthub.arduino.cc/)
+[Tutoriel youtube](https://youtu.be/t7k9D1jDEtk?si=-1EpZR00yzr7ao1Y)
