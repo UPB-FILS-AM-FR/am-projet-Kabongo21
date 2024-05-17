@@ -11,6 +11,13 @@ Le projet consiste à concevoir et à construire un robot suiveur de ligne auton
 J'ai choisi ce projet car c'est une excellente introduction dans le monde de la robotique. Cela me permettra d'explorer des concepts de base tout en développant des compétences pratiques en électronique et en programmation.
 
 ## Architecture
+Le projet utilise un Arduino UNO R3 comme cerveau central pour contrôler le suiveur de ligne. Les capteurs infrarouges sont utilisés pour détecter la ligne tracée sur le sol, tandis que les moteurs permettent au suiveur de ligne de se déplacer le long de cette ligne.
+
+Lorsque le suiveur de ligne est mis sous tension, l'Arduino UNO R3 initialise les différents composants, notamment les capteurs infrarouges et les moteurs. Les capteurs infrarouges effectuent des lectures régulières pour détecter la position de la ligne par rapport au suiveur de ligne.
+
+Les données des capteurs sont ensuite analysées par l'Arduino UNO R3 pour déterminer la direction dans laquelle le suiveur de ligne doit se déplacer pour rester sur la ligne. En fonction de ces données, des signaux sont envoyés aux moteurs pour ajuster la vitesse et la direction du suiveur de ligne afin qu'il suive la ligne tracée sur le sol.
+
+Ainsi, le suiveur de ligne se déplace de manière autonome le long de la piste, ajustant continuellement sa trajectoire en fonction des informations fournies par les capteurs. Cette architecture permet au suiveur de ligne de suivre la ligne tracée sur le sol de manière autonome, en utilisant les données des capteurs infrarouges pour ajuster sa trajectoire et en contrôlant les moteurs pour son déplacement.
 
 
 ### Block diagram
