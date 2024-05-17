@@ -11,15 +11,16 @@ Le projet consiste à concevoir et à construire un robot suiveur de ligne auton
 J'ai choisi ce projet car c'est une excellente introduction dans le monde de la robotique. Cela me permettra d'explorer des concepts de base tout en développant des compétences pratiques en électronique et en programmation.
 
 ## Architecture
+![Architecture](Schema-robot-1.png)
 
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+![Diagram](Robot-ligne.png)
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic]()
 
 ### Components
 
