@@ -49,7 +49,7 @@ Ainsi, le suiveur de ligne se déplace de manière autonome le long de la piste,
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| [Pont en H](https://github.com/FalconLee1011/L9110s-Library-for-Arduino) | L9110s / L298n Library for Arduino  | Le pont en H permet de controler les moteurs |
 | [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
 
 ## Log
